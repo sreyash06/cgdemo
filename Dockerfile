@@ -37,7 +37,7 @@ FROM openjdk:17-jdk-slim
 
  
 
-ARG JAR_FILE=target/CharanKacham-project.jar
+ARG JAR_FILE=target/cgdemo-project.jar
 
  
 
